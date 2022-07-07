@@ -10,6 +10,22 @@ Space complexity is concerned with the memory it takes to complete a task.
 Common Complexities are as followed: 
 
 
+<img width="710" alt="complexity_class" src="https://user-images.githubusercontent.com/48301423/177792030-9b602216-6890-4feb-8d35-4e4b9ac5940e.png">
+
+**Big O Complexity Chart**
+
+
+
+<img width="556" alt="big_o_plot" src="https://user-images.githubusercontent.com/48301423/177791886-1321ea10-64cf-4026-b594-86ffb46ce577.png">
+
+**Big O Plot**
+
+
+<img width="886" alt="complexity_performance" src="https://user-images.githubusercontent.com/48301423/177792209-bcc683f3-08fa-4556-a08e-faad39588099.png">
+
+**Big O Plot by Performance**
+
+
 ## Reading
 
 ### The Math Behind Big O and Other Asymptotic Notations
