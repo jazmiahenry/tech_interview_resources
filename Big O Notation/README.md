@@ -1,5 +1,15 @@
 # Big O notation explaination Links!!!
 
+## Big O Notation Defined
+
+Big O notation describes the limit or upper bound of a function as it computes a desired output. It can help measure the complexity of the time and space of an algorithm.
+
+Time complexity is concerned with the time it takes to complete a task.
+Space complexity is concerned with the memory it takes to complete a task.
+
+Common Complexities are as followed: 
+
+
 ## Reading
 
 ### The Math Behind Big O and Other Asymptotic Notations
