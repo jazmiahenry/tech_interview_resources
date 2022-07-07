@@ -31,6 +31,9 @@ https://www.educative.io/blog/the-insiders-guide-to-recursion
 ### Recursion cheatsheet for coding interviews
 https://www.techinterviewhandbook.org/algorithms/recursion/
 
+### Recursion: A Quick Guide for Software Engineers
+https://www.educative.io/blog/recursion
+
 
 ## Videos
 
