@@ -7,6 +7,8 @@ This repo assumes basic understanding of how to code and Data Structures and Alg
 
 If you do not have basic understanding in either, have no fear- there are free resources online for you to use. 
 
+Here is a quick DS&A cheatsheet link for you to use: https://intellipaat.com/mediaFiles/2019/02/Python-Data-structures-cheat-sheet.pdf
+
 * To better understand coding in Python, follow this free course here:
 https://www.youtube.com/watch?v=rfscVS0vtbw
 
